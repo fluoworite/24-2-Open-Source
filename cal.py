@@ -13,6 +13,9 @@ def div (a, b):
         return "Can not div 0"
     return a/b
 
+def conlift():
+    print("conflict-branch-1")
+
 if __name__ == "__main__":
     a = int(input("input integer number1 : "))
     op = input("input oponent :")
