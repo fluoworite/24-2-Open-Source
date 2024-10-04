@@ -14,7 +14,8 @@ def div (a, b):
     return a/b
 
 def conlift():
-    print("conflict-branch-1")
+    print("conflict-branch-1 깃 충돌 발생 유발")
+
 
 if __name__ == "__main__":
     a = int(input("input integer number1 : "))
